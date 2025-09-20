@@ -1,0 +1,14 @@
+div.side {
+    display: inline-block;
+    text-align: center;
+
+    width: 50%;
+    height: 12vh;
+
+    background-color: #e6ddeb;
+    font-size: 1rem;
+
+    h2 {
+        transform: translateY(4vh);
+    }
+}
